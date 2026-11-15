@@ -1,0 +1,8 @@
+{
+  "name": "VibeMatch Matching Engine Lab",
+  "description": "Upgraded multi-layer, multi-set clustering, game-theoretic incentive, and batched many-to-many Gale-Shapley matching algorithm workbench for VibeMatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
